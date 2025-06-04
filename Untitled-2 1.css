@@ -1,0 +1,9 @@
+body {background-image:url(WALLSFONDO.jpg);
+    background-size: cover;}
+
+
+h2 {font-family:"Times New Roman, time, sans-serif";
+font-size:75px;color:rgb(7, 7, 7);text-align:right;border:20px rgb(141, 85, 137) dashed;}
+
+h3 {font-family:"Times New Roman, time, sans-serif";
+font-size:40px;}
